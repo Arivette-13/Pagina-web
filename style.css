@@ -1,0 +1,31 @@
+.imgS {
+    width : 25%;
+    height : 50%;
+}
+
+h1 {
+    color :#558fca;
+    background-color: rgb(221, 193, 157);
+    padding: 2%;
+}
+
+h1:hover {
+    color : #fff;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    background-color: #d0d0d0;
+    color: #333;
+}
+
+.width {
+    width: 150px;
+    height: 275px;
+}
+
+p {
+    font-size:18px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
