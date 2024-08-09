@@ -10,9 +10,7 @@
 }
 
 h1:hover {
-    animation:color-change 3s infinite;
-    background-color: #f6f2e4;
-    padding: 1%;
+    color : #fff;
 }
 
 body {
