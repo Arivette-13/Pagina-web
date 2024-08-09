@@ -1,16 +1,18 @@
+@keyframes color-change {
+    0% {color : rgb(58, 100, 158)}
+    50%{color : rgb(79, 204, 63)}
+    100%{color : rgb(58, 100, 158)}
+}
+
 .imgS {
     width : 25%;
     height : 50%;
 }
 
-h1 {
-    color :#558fca;
-    background-color: rgb(221, 193, 157);
-    padding: 2%;
-}
-
 h1:hover {
-    color : #fff;
+    animation:color-change 3s infinite;
+    background-color: #f6f2e4;
+    padding: 1%;
 }
 
 body {
