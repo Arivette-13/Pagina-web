@@ -10,7 +10,7 @@
 }
 
 h1:hover {
-    color : #fff;
+    animation:color-change 3s infinite;
 }
 
 body {
